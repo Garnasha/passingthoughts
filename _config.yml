@@ -2,23 +2,23 @@
 remote_theme: fongandrew/hydeout
 
 # Dependencies
-#markdown: kramdown
-#highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 
 # Identity
 title: 'Passing Thoughts'
 tagline: 'Placeholder tagline'
 description: 'Under Construction'
-#url: https://garnasha.github.io/passingthoughts
+url: https://garnasha.github.io/passingthoughts
 
 # Sal
-#author:
-#  name: 'Sal Wolffs'
+author:
+    name: 'Sal Wolffs'
 
 
 # Settings
-#paginate: 5
-#paginate_path: '/blog/page:num'
+paginate: 5
+paginate_path: '/blog/page:num'
 
 #plugins:
 #  - jekyll-feed
@@ -26,11 +26,11 @@ description: 'Under Construction'
 #  - jekyll-paginate
 
 # Hydeout custom vars
-#version: 3.6.0
-#sidebar_home_link: true
-#sidebar_blog_link: '/blog'
+version: 3.6.0
+sidebar_home_link: true
+sidebar_blog_link: '/blog'
 
-#github:
-#  repo: https://github.com/garnasha/passingthoughts
+github:
+  repo: https://github.com/garnasha/passingthoughts
 
 
