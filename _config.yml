@@ -1,2 +1,36 @@
+# Theme
 remote_theme: fongandrew/hydeout
-description: "Observations, musings, etc. . Some mental swap space and long-term storage."
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Identity
+title: 'Passing Thoughts'
+tagline: ''
+description: 'Under Construction'
+url: https:garnasha.github.io/passingthoughts
+
+# Sal
+author:
+    name: 'Sal Wolffs'
+
+
+# Settings
+paginate: 5
+paginate_path: '/blog/page:num'
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Hydeout custom vars
+version: 3.6.0
+sidebar_home_link: true
+# sidebar_blog_link: '/blog'
+
+github:
+  repo: https://github.com/garnasha/passingthoughts
+
+
