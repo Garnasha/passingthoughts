@@ -1,5 +1,5 @@
 # Theme
-remote_theme: fongandrew/hydeout
+remote_theme: fongandrew/jekyll-theme-hydeout
 
 # Dependencies
 markdown: kramdown
@@ -7,9 +7,9 @@ highlighter: rouge
 
 # Identity
 title: 'Passing Thoughts'
-tagline: ''
+tagline: 'Placeholder tagline'
 description: 'Under Construction'
-url: https:garnasha.github.io/passingthoughts
+url: https://garnasha.github.io/passingthoughts
 
 # Sal
 author:
