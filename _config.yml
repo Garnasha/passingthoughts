@@ -7,7 +7,7 @@ highlighter: rouge
 
 # Identity
 title: 'Passing Thoughts'
-tagline: 'Placeholder tagline'
+tagline: ''
 description: 'Under Construction'
 url: https://garnasha.github.io/passingthoughts
 
@@ -15,15 +15,19 @@ url: https://garnasha.github.io/passingthoughts
 author:
     name: 'Sal Wolffs'
 
+disqus:
+    shortname: passingthoughts-1
+
 
 # Settings
 paginate: 5
 paginate_path: '/blog/page:num'
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-gist
-#  - jekyll-paginate
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
 # Hydeout custom vars
 version: 3.6.0
