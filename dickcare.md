@@ -10,5 +10,5 @@
 ## For anyone who has to deal with your dick in any way
  - Wash daily.
  - When going to the toilet, pull back foreskin, pee, wipe tip, return foreskin.
- - If you experience "dripping" after going to the toilet, squeeze the urethra
-   stem to tip before wiping.
+ - If you experience "dripping" after going to the toilet, squeeze the urethra,
+   stem to tip, before wiping.
