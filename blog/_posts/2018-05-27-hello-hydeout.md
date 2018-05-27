@@ -18,10 +18,9 @@ on GitHub, you should instead put `remote-theme:fongandrew/hydeout` in your
 I just copied most of what was in hydeout/\_config.yml to my own. Some
 explanation as to what some options do:
 
-`title:` gives the title of your blog, which will be the default title of the
+`title:` gives the title of your blog, which will be the link title of the
 index page. Appears in the side bar, as well as in the human-readable name of
-any links to pages using the default title (which is displayed in e.g. tab
-headers).
+any links to the index (which is displayed in e.g. tab headers).
 
 `tagline:` is given as a link subtitle to any pages that don't provide their own.
 Appears after the title of the page in the human-readable name of the link to
