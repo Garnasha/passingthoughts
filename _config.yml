@@ -28,7 +28,7 @@ plugins:
 # Hydeout custom vars
 version: 3.6.0
 sidebar_home_link: true
-# sidebar_blog_link: '/blog'
+sidebar_blog_link: '/blog'
 
 github:
   repo: https://github.com/garnasha/passingthoughts
