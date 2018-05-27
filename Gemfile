@@ -1,3 +1,3 @@
-source "https://rubygems.org"
-gemspec
-gem "jekyll-theme-hydeout", "~> 3.4"
+source "https://rubygems.org" do
+    gem "jekyll-theme-hydeout", "~> 3.4"
+end
